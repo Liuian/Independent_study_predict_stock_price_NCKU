@@ -1,4 +1,5 @@
-# 出錯1
+![image](https://github.com/Liuian/predict-stock-price_independent-study_NCKU/blob/main/%E4%B8%8D%E5%88%86%E7%B3%BB%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1_page-0001.jpg)
+## 出錯1
 標準化資料
 scaler = MinMaxScaler(feature_range=(0, 1))
 scaled_Data = scaler.fit_transform(Data)
