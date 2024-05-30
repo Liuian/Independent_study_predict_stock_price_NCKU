@@ -1,5 +1,5 @@
 ![image](https://github.com/Liuian/predict-stock-price_independent-study_NCKU/blob/main/%E4%B8%8D%E5%88%86%E7%B3%BB%E5%B0%88%E9%A1%8C%E6%B5%B7%E5%A0%B1_page-0001.jpg)
-##  
+##  實作方法總結
 原始、預測資料：  
 美國一個城市Ames, Iowa的真實房價資料  
 train.csv: 1422 homes with 75 variables & real price(1422, 75)  
